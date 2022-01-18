@@ -42,6 +42,7 @@ class TicTacToe
         bool is_gaming = true;
         while (is_gaming == true)
         {
+            //increase the turn counter by 1
             turn_count++;
 
             //display the board
